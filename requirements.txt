@@ -1,0 +1,6 @@
+openai
+groq
+transformers
+torch
+cohere
+ollama
